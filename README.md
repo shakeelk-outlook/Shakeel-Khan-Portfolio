@@ -19,6 +19,6 @@
 - Using the appointment data provided from a medical practice create visualization and using Power BI I have developed online dashboards and reports to identify trends regarding appointments, no-shows and gain insights regarding variables that affects patient show-up or no-show to the appointment.
 
 
-***Patient Appointment Dashboard***
+***Patient Appointment Dashboard in Power BI***
 
 ![Image of Patient Appointment Dashboard](images/PA%20Dashboard%20Image.png)

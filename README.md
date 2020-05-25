@@ -21,4 +21,4 @@
 
 ***Patient Appointment Dashboard***
 
-![Image of Patient Appointment Dashboard](https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/images/PA%20Dashboard%20Image.png)
+![Image of Patient Appointment Dashboard](images/PA%20Dashboard%20Image.png)

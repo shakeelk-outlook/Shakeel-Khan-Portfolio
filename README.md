@@ -10,4 +10,4 @@
 
 [Patient Appointment Dashboard]
 
-!(https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/PA%20Dashboard%20Image.png)
+![](https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/PA%20Dashboard%20Image.png)

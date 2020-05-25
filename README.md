@@ -1,2 +1,2 @@
 # Data Analytics Portfolio
-## A glimpse of the projects I've been working on
+## *A glimpse of the projects I've been working on*

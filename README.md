@@ -10,4 +10,4 @@
 
 ***Patient Appointment Dashboard***
 
-![Image of Patient Appointment Dashboard]
+![Image of Patient Appointment Dashboard]()

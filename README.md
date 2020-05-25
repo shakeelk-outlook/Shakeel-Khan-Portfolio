@@ -1,5 +1,7 @@
 # Data Analytics Portfolio
-### *A glimpse of the projects I've been working on*
+### *A glimpse of the projects I've been working on*  
+
+
 ## [**Nov 2019: Patient Appointment Analysis**](https://patientappointmentanalysis)
 - Patient no-shows permeate medical practices, across specialties, locations, and practice models. No-shows consistently cause problems for practices and therefore practices track their no-show rate to realize the impact that no-shows can have on both their processes and their revenue. 
 - There are many reasons that patients fail to make their appointments and there are demographic similarities across patients who no-show more consistently than others. 

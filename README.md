@@ -8,4 +8,6 @@
 - Using the appointment data provided from a medical practice create visualization using Power BI to gain insights and identify trends regarding appointments, no-shows and which variable is the most important one that affects patient show-up or no-show to the appointment.
 
 
-[Patient Appointment Dashboard](https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/PA%20Dashboard%20Image.png)
+[Patient Appointment Dashboard]
+
+!(https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/PA%20Dashboard%20Image.png)

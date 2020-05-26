@@ -13,7 +13,7 @@
 
 ***COVID-19 Dashboard in Excel***
 
-![Image of COVID-19 Dashboard Excel](https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/images/PA%20Dashboard%20Image.png)
+![Image of COVID-19 Dashboard Excel](/images/COVID-19%20%20Dashboard%20Excel.png)
 
 
 ## [**Nov 2019: Patient Appointment Analysis**](https://patientappointmentanalysis)

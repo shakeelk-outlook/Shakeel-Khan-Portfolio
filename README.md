@@ -35,4 +35,4 @@
 
 ***USPTO Cancer Patients Analyzer in Tableau***
 
-![Image of USPTO Cancer Patents Analyzer](images/PA%20Dashboard%20Image.png)
+![Image of USPTO Cancer Patents Analyzer](images/USPTO%20Cancer%20Drug%20Patents%20Analyzer%20Tableau.png)

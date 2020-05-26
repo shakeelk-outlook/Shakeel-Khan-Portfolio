@@ -16,7 +16,7 @@
 ![Image of COVID-19 Dashboard Excel](images/COVID-19%20%20Dashboard%20Excel.png)
 
 
-## [**Nov 2019: Patient Appointment Analysis**](https://patientappointmentanalysis)
+## [**Nov 2019: Patient Appointment Analysis**](https://community.powerbi.com/t5/Data-Stories-Gallery/Patient-Appointment-Analysis/td-p/1118754)
 - Patient no-shows permeate medical practices, across specialties, locations, and practice models. No-shows consistently cause problems for practices and therefore practices track their no-show rate to realize the impact that no-shows can have on both their processes and their revenue. 
 - There are many reasons that patients fail to make their appointments and there are demographic similarities across patients who no-show more consistently than others. 
 - Using the appointment data provided from a medical practice create visualization and using Power BI I have developed online dashboards and reports to identify trends regarding appointments, no-shows and gain insights regarding variables that affects patient show-up or no-show to the appointment.

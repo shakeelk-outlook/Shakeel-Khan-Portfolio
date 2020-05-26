@@ -25,3 +25,14 @@
 ***Patient Appointment Dashboard in Power BI***
 
 ![Image of Patient Appointment Dashboard](images/PA%20Dashboard%20Image.png)
+
+
+## [**Sep 2016: USPTO Cancer Patents Analyzer**](https://patientappointmentanalysis)
+- The USPTO Cancer Moonshot Patent Data contains detailed information on published patent applications and granted patents relevant to cancer research and development (R&D). The dataset is generated using USPTO examiner tools to execute a series of queries designed to identify cancer-specific patents and patent applications. 
+- USPTO conducted a crowd-sourced competition to develop a tool to analyze patents related to cancer drugs for approval of funding to support R&D efforts.
+- Using the data provided by USPTO and using Tableau as visualization tool I developed the analysis and participated in the competition. 
+
+
+***USPTO Cancer Patients Analyzer in Tableau***
+
+![Image of USPTO Cancer Patents Analyzer](images/PA%20Dashboard%20Image.png)

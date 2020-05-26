@@ -33,6 +33,6 @@
 - Using the data provided by USPTO and using Tableau as visualization tool I developed the analysis and participated in the competition. 
 
 
-***USPTO Cancer Patients Analyzer in Tableau***
+***USPTO Cancer Patents Analyzer in Tableau***
 
 ![Image of USPTO Cancer Patents Analyzer](images/USPTO%20Cancer%20Drug%20Patents%20Analyzer%20Tableau.png)

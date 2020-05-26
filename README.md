@@ -9,11 +9,11 @@
 
 ***COVID-19 Dashboard in Power BI***
 
-![Image of Patient Appointment Dashboard](https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/images/PA%20Dashboard%20Image.png)
+![Image of COVID-19 Dashboard Power BI](/images/COVID-19%20%20Dashboard%20Power%20BI.png)
 
 ***COVID-19 Dashboard in Excel***
 
-![Image of Patient Appointment Dashboard](https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/images/PA%20Dashboard%20Image.png)
+![Image of COVID-19 Dashboard Excel](https://github.com/S-A-Khan/Shakeel-Khan-Portfolio/blob/master/images/PA%20Dashboard%20Image.png)
 
 
 ## [**Nov 2019: Patient Appointment Analysis**](https://patientappointmentanalysis)

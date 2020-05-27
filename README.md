@@ -2,7 +2,8 @@
 ### *A glimpse of the projects I've been working on*  
 
 
-## [**Mar 2020: COVID-19 Analysis**](https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Dashboard/td-p/1121420)
+## [**COVID-19 Analysis**](https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Dashboard/td-p/1121420)
+### *Which country has been affected the most?* 
 - 2019 Novel Coronavirus (2019-nCoV) is a virus (more specifically, a coronavirus) identified as the cause of an outbreak of respiratory illness first detected in Wuhan, China. Early on, many of the patients in the outbreak in Wuhan, China reportedly had some link to a large seafood and animal market, suggesting animal-to-person spread. However, a growing number of patients reportedly have not had exposure to animal markets, indicating person-to-person spread has been occurring. 
 - Johns Hopkins University developed a dashboard to track the progression of disease caused by Coronavirus referred as Covid-19. The dataset used for analysis is publically available and can be used to track daily level information with regards to number of case, deaths and recovery. 
 - Using the dataset and tools such as Excel and Power BI I have developed real-time dashboards to visualize the data to study the progression of the disease.

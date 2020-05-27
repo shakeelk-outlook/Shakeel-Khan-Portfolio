@@ -30,7 +30,7 @@
 
 
 ## [**Sep 2016: USPTO Cancer Patents Analyzer**](https://public.tableau.com/views/USPTO_Cancer_MoonShot_Challenge_2016/Story1?:display_count=y&:origin=viz_share_link)
-### *Which cancer drug research should b funded?* 
+### *Which cancer drug research should be funded?* 
 - The USPTO Cancer Moonshot Patent Data contains detailed information on published patent applications and granted patents relevant to cancer research and development (R&D). The dataset is generated using USPTO examiner tools to execute a series of queries designed to identify cancer-specific patents and patent applications. 
 - USPTO conducted a crowd-sourced competition to develop a tool to analyze patents related to cancer drugs for approval of funding to support R&D efforts.
 - Using the data provided by USPTO and using Tableau as visualization tool I developed the analysis and participated in the competition. 

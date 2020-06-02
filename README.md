@@ -48,4 +48,4 @@
 
 ***Platelet Storage Duration Project on GitHub***
 
-![Image of Platelet Storage Duration Project](images/USPTO%20Cancer%20Drug%20Patents%20Analyzer%20Tableau.png)
+![Image of Platelet Storage Duration Project](Images/K-mean%20Scatterplot.png)

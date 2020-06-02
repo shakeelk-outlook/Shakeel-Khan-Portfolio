@@ -48,4 +48,4 @@
 
 ***Platelet Storage Duration Project on GitHub***
 
-![Image of Platelet Storage Duration Project](images/K-mean%20Scatterplot.png)
+![Image of Platelet Storage Duration Project](Images/K-mean%20Scatterplot.png)

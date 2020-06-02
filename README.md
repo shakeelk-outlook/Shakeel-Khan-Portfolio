@@ -17,7 +17,7 @@
 ![Image of COVID-19 Dashboard Excel](images/COVID-19%20%20Dashboard%20Excel.png)
 
 
-## [**Nov 2019: Patient Appointment Analysis**](https://community.powerbi.com/t5/Data-Stories-Gallery/Patient-Appointment-Analysis/td-p/1118754)
+## [**Patient Appointment Analysis**](https://community.powerbi.com/t5/Data-Stories-Gallery/Patient-Appointment-Analysis/td-p/1118754)
 ### *What are the factors influencing patient no-show?* 
 - Patient no-shows permeate medical practices, across specialties, locations, and practice models. No-shows consistently cause problems for practices and therefore practices track their no-show rate to realize the impact that no-shows can have on both their processes and their revenue. 
 - There are many reasons that patients fail to make their appointments and there are demographic similarities across patients who no-show more consistently than others. 
@@ -29,7 +29,7 @@
 ![Image of Patient Appointment Dashboard](images/PA%20Dashboard%20Image.png)
 
 
-## [**Sep 2016: USPTO Cancer Patents Analyzer**](https://public.tableau.com/views/USPTO_Cancer_MoonShot_Challenge_2016/Story1?:display_count=y&:origin=viz_share_link)
+## [**USPTO Cancer Patents Analyzer**](https://public.tableau.com/views/USPTO_Cancer_MoonShot_Challenge_2016/Story1?:display_count=y&:origin=viz_share_link)
 ### *Which cancer drug research should be funded?* 
 - The USPTO Cancer Moonshot Patent Data contains detailed information on published patent applications and granted patents relevant to cancer research and development (R&D). The dataset is generated using USPTO examiner tools to execute a series of queries designed to identify cancer-specific patents and patent applications. 
 - USPTO conducted a crowd-sourced competition to develop a tool to analyze patents related to cancer drugs for approval of funding to support R&D efforts.
@@ -39,3 +39,13 @@
 ***USPTO Cancer Patents Analyzer in Tableau***
 
 ![Image of USPTO Cancer Patents Analyzer](images/USPTO%20Cancer%20Drug%20Patents%20Analyzer%20Tableau.png)
+
+
+## [**Platelet Storage Duration Prediction**](https://github.com/S-A-Khan/Platelet-Storage-Duration-Prediction)
+### *How long platelet units are stored in hospital blood banks in United States?* 
+- A project to study platelet storage patterns and predict storage duration on the shelf based on historic data from blood banks to help hospitals reduce platelet wasteage.
+
+
+***Platelet Storage Duration Project on GitHub***
+
+![Image of Platelet Storage Duration Project](images/USPTO%20Cancer%20Drug%20Patents%20Analyzer%20Tableau.png)

@@ -49,3 +49,7 @@
 ***Platelet Storage Duration Project on GitHub***
 
 ![Image of Platelet Storage Duration Project](images/K-mean%20Scatterplot.png)
+
+***Link to Toptal Skill Reference Page***
+
+https://www.toptal.com/product-managers/resume/andrew-bellay

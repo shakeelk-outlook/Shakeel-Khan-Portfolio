@@ -1,3 +1,7 @@
+***Link to Toptal Skill Reference Page***
+
+https://www.toptal.com/product-managers/resume/andrew-bellay
+
 # Data Analytics Portfolio
 ### *A glimpse of the projects I've been working on*  
 
